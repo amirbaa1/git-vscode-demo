@@ -1,6 +1,6 @@
 # git-vscode-demo
 
 
- -Hello
+- Hello
 - frist code demo
 - __ez__
