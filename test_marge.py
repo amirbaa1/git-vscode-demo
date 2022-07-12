@@ -9,8 +9,8 @@ def is_prime(x, y):
         else:
             if i>1:
                 c=i
-                display_fristnumber(c)
-def display_fristnumber(c):
+                display(c)
+def display(c):
     print(c)
 
 a=input()
